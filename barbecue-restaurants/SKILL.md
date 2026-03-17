@@ -1,5 +1,5 @@
 ---
-name: "barbecue-restaurants"
+name: "附近烧烤"
 description: "Find nearby barbecue restaurants. Invoke when user asks for BBQ near me."
 ---
 

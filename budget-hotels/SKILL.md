@@ -1,5 +1,5 @@
 ---
-name: "budget-hotels"
+name: "附近经济型酒店"
 description: "Find nearby budget hotels. Invoke when user asks for cheap hotels near me."
 ---
 

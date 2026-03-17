@@ -1,5 +1,5 @@
 ---
-name: "barbershops"
+name: "附近理发店"
 description: "Find nearby barbershops. Invoke when user asks for haircuts near me."
 ---
 

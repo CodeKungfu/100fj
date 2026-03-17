@@ -1,5 +1,5 @@
 ---
-name: "beaches"
+name: "附近海滩"
 description: "Find nearby beaches. Invoke when user asks for beaches near me."
 ---
 

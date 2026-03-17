@@ -1,5 +1,5 @@
 ---
-name: "bookshops"
+name: "附近书店"
 description: "Find nearby bookshops. Invoke when user asks for bookstores near me."
 ---
 

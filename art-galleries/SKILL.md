@@ -1,5 +1,5 @@
 ---
-name: "art-galleries"
+name: "附近画廊"
 description: "Find nearby art galleries. Invoke when user asks for galleries near me."
 ---
 

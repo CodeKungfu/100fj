@@ -1,5 +1,5 @@
 ---
-name: "bike-sharing"
+name: "附近共享单车"
 description: "Find nearby bike sharing. Invoke when user asks for shared bikes near me."
 ---
 

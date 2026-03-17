@@ -1,5 +1,5 @@
 ---
-name: "bnb-stays"
+name: "附近民宿"
 description: "Find nearby B&B stays. Invoke when user asks for bed and breakfast near me."
 ---
 

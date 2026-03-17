@@ -1,5 +1,5 @@
 ---
-name: "auto-repair"
+name: "附近汽车维修"
 description: "Find nearby auto repair. Invoke when user asks for car repair near me."
 ---
 

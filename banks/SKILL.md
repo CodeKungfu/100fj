@@ -1,5 +1,5 @@
 ---
-name: "banks"
+name: "附近银行"
 description: "Find nearby banks. Invoke when user asks for bank branches near me."
 ---
 

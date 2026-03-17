@@ -1,5 +1,5 @@
 ---
-name: "atms"
+name: "附近取款机"
 description: "Find nearby ATMs. Invoke when user asks for cash withdrawal near me."
 ---
 
