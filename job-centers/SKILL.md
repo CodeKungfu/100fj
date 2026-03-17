@@ -1,5 +1,5 @@
 ---
-name: "job-centers"
+name: "附近就业中心"
 description: "Find nearby job centers. Invoke when user asks for employment services near me."
 ---
 

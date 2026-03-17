@@ -1,5 +1,5 @@
 ---
-name: "hostels"
+name: "附近青年旅社"
 description: "Find nearby hostels. Invoke when user asks for hostels near me."
 ---
 

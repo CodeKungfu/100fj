@@ -1,5 +1,5 @@
 ---
-name: "gyms"
+name: "附近健身房"
 description: "Find nearby gyms. Invoke when user asks for fitness centers near me."
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: "farmers-markets"
+name: "附近农贸市场"
 description: "Find nearby farmers markets. Invoke when user asks for fresh produce near me."
 ---
 

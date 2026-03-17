@@ -1,5 +1,5 @@
 ---
-name: "food-delivery"
+name: "附近外卖"
 description: "Find nearby food delivery options. Invoke when user asks for delivery near me."
 ---
 

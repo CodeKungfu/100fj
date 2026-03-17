@@ -1,5 +1,5 @@
 ---
-name: "hotel-deals"
+name: "附近酒店优惠"
 description: "Find nearby hotel deals. Invoke when user asks for discounted hotels near me."
 ---
 

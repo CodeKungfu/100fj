@@ -1,5 +1,5 @@
 ---
-name: "lakesides"
+name: "附近湖畔"
 description: "Find nearby lakesides. Invoke when user asks for lakeside spots near me."
 ---
 

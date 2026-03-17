@@ -1,5 +1,5 @@
 ---
-name: "fire-stations"
+name: "附近消防站"
 description: "Find nearby fire stations. Invoke when user asks for fire services near me."
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: "massage-parlors"
+name: "附近按摩"
 description: "Find nearby massage parlors. Invoke when user asks for massage near me."
 ---
 

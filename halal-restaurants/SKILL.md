@@ -1,5 +1,5 @@
 ---
-name: "halal-restaurants"
+name: "附近清真餐厅"
 description: "Find nearby halal restaurants. Invoke when user asks for halal food near me."
 ---
 

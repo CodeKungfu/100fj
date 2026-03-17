@@ -1,5 +1,5 @@
 ---
-name: "hotels"
+name: "附近酒店"
 description: "Find nearby hotels. Invoke when user asks for hotels near me."
 ---
 

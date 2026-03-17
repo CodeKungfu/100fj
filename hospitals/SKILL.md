@@ -1,5 +1,5 @@
 ---
-name: "hospitals"
+name: "附近医院"
 description: "Find nearby hospitals. Invoke when user asks for hospitals near me."
 ---
 

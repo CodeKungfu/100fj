@@ -1,5 +1,5 @@
 ---
-name: "hiking-trails"
+name: "附近徒步路线"
 description: "Find nearby hiking trails. Invoke when user asks for trails near me."
 ---
 

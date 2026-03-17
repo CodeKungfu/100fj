@@ -1,5 +1,5 @@
 ---
-name: "kindergartens"
+name: "附近幼儿园"
 description: "Find nearby kindergartens. Invoke when user asks for preschools near me."
 ---
 

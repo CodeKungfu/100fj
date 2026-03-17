@@ -1,5 +1,5 @@
 ---
-name: "libraries"
+name: "附近图书馆"
 description: "Find nearby libraries. Invoke when user asks for public libraries near me."
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: "music-venues"
+name: "附近音乐现场"
 description: "Find nearby music venues. Invoke when user asks for live music near me."
 ---
 
