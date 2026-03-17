@@ -1,5 +1,5 @@
 ---
-name: "convenience-stores"
+name: "附近便利店"
 description: "Find nearby convenience stores. Invoke when user asks for 24/7 shops near me."
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: "electronics-stores"
+name: "附近电子产品店"
 description: "Find nearby electronics stores. Invoke when user asks for gadgets near me."
 ---
 

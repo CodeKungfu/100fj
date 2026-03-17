@@ -1,5 +1,5 @@
 ---
-name: "car-wash"
+name: "附近洗车"
 description: "Find nearby car wash. Invoke when user asks for car wash near me."
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: "elderly-care"
+name: "附近养老服务"
 description: "Find nearby elderly care services. Invoke when user asks for senior care near me."
 ---
 

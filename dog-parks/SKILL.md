@@ -1,5 +1,5 @@
 ---
-name: "dog-parks"
+name: "附近狗公园"
 description: "Find nearby dog parks. Invoke when user asks for pet-friendly parks near me."
 ---
 

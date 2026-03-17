@@ -1,5 +1,5 @@
 ---
-name: "coworking-spaces"
+name: "附近共享办公"
 description: "Find nearby coworking spaces. Invoke when user asks for shared offices near me."
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: "daycare-centers"
+name: "附近托育中心"
 description: "Find nearby daycare centers. Invoke when user asks for childcare near me."
 ---
 

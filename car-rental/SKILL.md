@@ -1,5 +1,5 @@
 ---
-name: "car-rental"
+name: "附近租车"
 description: "Find nearby car rental. Invoke when user asks for rental cars near me."
 ---
 

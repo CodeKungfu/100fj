@@ -1,5 +1,5 @@
 ---
-name: "camping-sites"
+name: "附近露营地"
 description: "Find nearby camping sites. Invoke when user asks for campsites near me."
 ---
 

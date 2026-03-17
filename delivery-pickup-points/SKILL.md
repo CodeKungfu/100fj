@@ -1,5 +1,5 @@
 ---
-name: "delivery-pickup-points"
+name: "附近快递自提点"
 description: "Find nearby delivery pickup points. Invoke when user asks for parcel pickup near me."
 ---
 

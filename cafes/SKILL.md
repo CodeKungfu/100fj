@@ -1,5 +1,5 @@
 ---
-name: "cafes"
+name: "附近咖啡"
 description: "Find nearby cafes. Invoke when user asks for coffee near me."
 ---
 

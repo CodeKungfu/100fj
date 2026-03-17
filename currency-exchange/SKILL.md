@@ -1,5 +1,5 @@
 ---
-name: "currency-exchange"
+name: "附近外币兑换"
 description: "Find nearby currency exchange. Invoke when user asks for foreign exchange near me."
 ---
 

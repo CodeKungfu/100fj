@@ -1,5 +1,5 @@
 ---
-name: "conference-centers"
+name: "附近会议中心"
 description: "Find nearby conference centers. Invoke when user asks for event venues near me."
 ---
 

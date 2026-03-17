@@ -1,5 +1,5 @@
 ---
-name: "dental-clinics"
+name: "附近牙科诊所"
 description: "Find nearby dental clinics. Invoke when user asks for dentists near me."
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: "clinics"
+name: "附近诊所"
 description: "Find nearby clinics. Invoke when user asks for outpatient care near me."
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: "ev-charging-stations"
+name: "附近充电站"
 description: "Find nearby EV charging stations. Invoke when user asks for charging near me."
 ---
 

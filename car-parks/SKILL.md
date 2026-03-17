@@ -1,5 +1,5 @@
 ---
-name: "car-parks"
+name: "附近停车场"
 description: "Find nearby car parks. Invoke when user asks for parking near me."
 ---
 
